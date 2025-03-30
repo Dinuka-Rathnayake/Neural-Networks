@@ -1,1 +1,1 @@
-Building an Image Classifier Using the Sequential API
+# Building an Image Classifier Using the Sequential API
